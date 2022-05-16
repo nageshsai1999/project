@@ -1,0 +1,19 @@
+Why : In frontend part I used Angular framwork beacuase it is single page application and developed by google
+Project : In Restaurent app 
+Web pages like 
+	login, 
+	register, 
+	home, 
+	menu and after login and register it'll show Cart page 
+Register Part: We add userDetails in mySQL database using node with mysql setup
+Login Part: Verify user and user able to add item into cart
+Menu Page: Fetching Data from Database and showing in menu page
+Cart Page: after login user able to add item in cart through menu page
+
+Node+MySQL setup did CRUD operation for user and item 
+
+MySQL :
+Database name: restaurentApp
+Table: 
+userDetails : for storing user details and created necessary column for that
+MenuDetails: for Storing menuItem Details and created necessary column for that

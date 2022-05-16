@@ -1,0 +1,12 @@
+Step 1 : unzip both (1. restaurantApp.zip, 2. node-MySQL.zip) zip file in seprate folder
+Step 2: Install Nodejs for Angular project from google and apache server for MySQL Database
+Stem 3: Import the given Database file in phpMyAdmin 
+Step 4: open node-MySQL backend app in VS code, update the database and user, password in config file and run the "npm run serve" It will show the database connected successfully
+Step 5: open restaurantApp app in new window VS code and run the "npm install" command for importing node_modules
+Stem 6: now run the "ng serve" that it Your app running successfully...
+
+Thank you....
+
+Regards,
+Chintan Dhokai
+Software Engineer
